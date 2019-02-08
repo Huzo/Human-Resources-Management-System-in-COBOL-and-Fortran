@@ -1,0 +1,20 @@
+Daily Attendance Summary\r
+Date: August 1, 2019\r             
+Staff-ID Name                            Department Status\r
+--------------------------------------------------------------\r
+1009     CHAN      TAI MAN               ITD        LATE      \r
+1077     WONG      ALICE                 ITD        PRESENT   \r
+1453     HUZO      REIS                  HRD        PRESENT   \r
+1455     MASA      KIRICI                HRD        SUSPICIOUS\r
+1823     WONG      SIU MING              HRD        SUSPICIOUS\r
+1983     ASDKJLADASMYSURNAME             ITD        SUSPICIOUS\r
+1990     CARMELO   ANTHONY               HRD        LATE      \r
+1998     HASAN ALI KALDIRIM              ITD        SUSPICIOUS\r
+1999     JAMES     HETFIELD              HRD        ABSENT    \r
+2000     ABUZIDDIN SATILMIS              HRD        SUSPICIOUS\r
+3000     HELLO     KITTY                 ITD        PRESENT   \r
+--------------------------------------------------------------\r
+Number of Presences:   3\r
+Number of Absences:   1\r
+Number of Late Arrivals:   2\r
+Number of Suspicious Records:   5\r
